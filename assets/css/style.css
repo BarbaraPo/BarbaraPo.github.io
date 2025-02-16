@@ -1,0 +1,22 @@
+
+body {
+    background-color: palegoldenrod;
+}
+
+.body-portafolio {
+    background-color: rgb(180, 67, 30);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+ }
+
+ .nav-link {
+    color: purple;
+ }
+h3 {
+    color:blue;
+}
+ 
