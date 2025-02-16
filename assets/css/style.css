@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-body {
+ body {
     background-color: rgb(192, 204, 235);
 }
 
@@ -15,7 +15,7 @@ body {
 h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: green;
+    color:#2E4A62;
     font-size: 2em;
     font-style: oblique;
  }
@@ -24,6 +24,6 @@ h1 {
     color: purple;
  }
 h3 {
-    color:blue;
+    color:rgb(45, 45, 111);
 }
  
