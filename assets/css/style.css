@@ -3,31 +3,50 @@
 }
 
 body {
-    background-color: rgb(192, 204, 235);
+    background-color: rgb(232, 196, 225);
+}
 
+.navbar-brand {
+    color: #324b61;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.nav-link {
+    font-size: larger;
+}
+
+.profesion {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: #043c6e;
 }
 
 h1 {
     text-align: center;
-    color: #2E4A62;
+    color: #324b61;
     font-size: 2em;
 }
 
 .nav-link {
-    color: rgb(63, 72, 173);
+    color: #324b61;
+
 }
 
 h3 {
-    color: rgb(45, 45, 111);
+    color: #324b61;
 }
- footer {
+
+footer {
     text-align: center;
     padding: 2em;
     border: 1em;
     margin: 0.1em;
-    font-weight:500 ;
- }
+    font-weight: bold;
+}
 
- img {
+img {
     width: 65%;
- }
+    margin-bottom: 20px;
+}
